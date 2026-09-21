@@ -1,7 +1,7 @@
 # Ex.No.4-EXP 4 Generate the Prompt and evaluate that for following prompt patterns - Zero-shot Prompting.•	Few-shot Prompting - Chain of Thought -	Persona Pattern - Reverse Prompting - Graph Prompting - Active Prompting
-### DATE:27-8-26                                                                    
-### REGISTER NUMBER: 212223040022
-### NAME: AYISHA RINSI K
+### DATE:20-9-26                                                                    
+### REGISTER NUMBER: 212223240019
+### NAME: CHANDRAPRIYADHARSHINI C
 # Ex.No.4 – Generate the Prompt and Evaluate for Advanced Prompting Techniques
 Zero-shot Prompting
 
