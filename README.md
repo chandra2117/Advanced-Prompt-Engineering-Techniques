@@ -1,4 +1,4 @@
-# Ex.No.4-EXP 4 Generate the Prompt and evaluate that for following prompt patterns - Zero-shot Prompting.•	Few-shot Prompting - Chain of Thought -	Persona Pattern - Reverse Prompting - Graph Prompting - Active Prompting
+# Ex.No.4 Generate the Prompt and evaluate that for following prompt patterns - Zero-shot Prompting.•	Few-shot Prompting - Chain of Thought -	Persona Pattern - Reverse Prompting - Graph Prompting - Active Prompting
 ### DATE:20-9-26                                                                    
 ### REGISTER NUMBER: 212223240019
 ### NAME: CHANDRAPRIYADHARSHINI C
